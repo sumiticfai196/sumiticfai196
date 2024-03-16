@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://www.bing.com/images/search?&view=detailv2&FORM=SBIHVR&idpvc=single&idpp=edgerp&noidpclose=1&iss=sbi&q=imgurl:https%3A%2F%2Fcamo.githubusercontent.com%2F85232f760cb61688cd7b793fd905598eb1b27946f86a362f2ede5add9ca67699%2F68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d6c61786d61726564647970267468656d653d6f6e656461726b&pageurl=https%3A%2F%2Fgithub.com%2Flaxmareddyp&pagetl=laxmareddyp+(Laxma+Reddy+Patlolla)&imgalt=trophy&imgsz=847x107" alt="Logo" width="80" height="80">
+    <img src="https://github.com/sumiticfai196/sumiticfai196/blob/main/achivement.svg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
