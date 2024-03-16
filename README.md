@@ -33,6 +33,14 @@
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="https://github.com/sumiticfai196/sumiticfai196/blob/main/achivement.svg" alt="Logo" width="100%" height="100%">
   </a>
+  
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="https://github.com/sumiticfai196/sumiticfai196/blob/main/CurrentStatus.svg" alt="Logo" width="100%" height="100%">
+  </a>
+   <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="https://github.com/sumiticfai196/sumiticfai196/blob/main/CProgress.svg" alt="Logo" width="100%" height="100%">
+  </a>
+
 
   <h3 align="center">Best-README-Template</h3>
 
