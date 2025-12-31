@@ -1,5 +1,17 @@
 # 👋 Hi, I'm Sumit Gupta
 
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft%20Certified%20Trainer-MCT-blue?style=for-the-badge&logo=microsoft" />
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-Cloud-blue?style=for-the-badge&logo=microsoftazure" />
+  <img src="https://img.shields.io/badge/Dynamics%20365-CRM-blue?style=for-the-badge&logo=microsoft" />
+  <img src="https://img.shields.io/badge/Power%20Platform-Low%20Code-purple?style=for-the-badge&logo=powerplatform" />
+</p>
+
+
+
+
+
 ## Mentor | Enterprise Technical Architect | Microsoft Certified Trainer (MCT) | MVP  
 ### Dynamics 365 • Power Platform • Azure • Copilot
 
@@ -21,8 +33,8 @@ I also work closely with **state & federal teams, Big 4 firms, Fortune enterpris
 ## 🏆 Recognition & Credibility
 
 - ⭐ **Microsoft Certified Trainer (MCT)** – North America  
-- ⭐ **Most Valuable Professional (MVP)** – Dynamics CRM Community (C# Corner)  
-- 📘 **Technical Course Reviewer**  
+- ⭐ **Most Valuable Professional (MVP)** – Dynamics CRM Community (C-Sharp Corner)  
+- 📘 **Technical Course Reviewer**
   - Udemy  
   - Pluralsight  
   - Packt  
@@ -119,19 +131,19 @@ I actively work on:
 ## 📜 Certifications Snapshot
 
 ### Dynamics 365
-- MB-210, MB-220, MB-230
-- MB2-715 / 716 / 717 / 718
-- MB-901 / MB-910
-- MCSA | MCSE – Business Applications
+- MB-210, MB-220, MB-230  
+- MB2-715 / 716 / 717 / 718  
+- MB-901 / MB-910  
+- MCSA | MCSE – Business Applications  
 
 ### Power Platform
-- PL-900, PL-100, PL-200, PL-400, PL-600
+- PL-900, PL-100, PL-200, PL-400, PL-600  
 
 ### Azure & Microsoft Cloud
-- AZ-900, AZ-104, AZ-204
-- AZ-303 / AZ-304 / AZ-305
-- AZ-400, DP-203, DP-300
-- MS-900, MS-700
+- AZ-900, AZ-104, AZ-204  
+- AZ-303 / AZ-304 / AZ-305  
+- AZ-400, DP-203, DP-300  
+- MS-900, MS-700  
 
 ---
 
@@ -159,4 +171,3 @@ If you're looking for:
 ---
 
 ⭐ *Building scalable solutions. Enabling teams. Driving impact.*
-
